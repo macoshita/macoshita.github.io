@@ -1,0 +1,1 @@
+webpackJsonp([10],{"9RO+":function(p,t){p.exports={slug:"2018-03-14-play-kana-input",date:"2018-03-14",title:"かな入力で遊ぶやつ作った",content:'<p><a href="https://macoshita.github.io/play-kana-input/">かなあそび</a></p>\n<p>息子が爆笑してくれたのでとりあえず満足。</p>\n<p>技術的には nuxt, nuxt-pwa で組んで generate して github pages にデプロイ。</p>\n<p>PC 版の Chrome が PWA に対応してきたら、デスクトップアプリ風に遊べる……はず。</p>\n'}}});
